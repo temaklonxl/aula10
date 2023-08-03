@@ -1,0 +1,1 @@
+console.log("bom dia humano, gostaria de uma xicara de chá?");
